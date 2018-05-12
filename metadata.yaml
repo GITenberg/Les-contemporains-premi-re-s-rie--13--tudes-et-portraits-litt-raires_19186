@@ -1,0 +1,36 @@
+_repo: Les-contemporains-premi-re-s-rie--13--tudes-et-portraits-litt-raires_19186
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lemaître, Jules
+    alias: Lemaitre, Jules
+    birthdate: 1853
+    deathdate: 1914
+    gutenberg_agent_id: '5505'
+    url: http://www.gutenberg.org/2009/agents/5505
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jules_Lemaitre
+    - http://en.wikipedia.org/wiki/Jules_Lema%C3%AEtre
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19186'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- !lcc 'PQ'
+tableOfContents: Théodore de Banville -- Sully-Prudhomme -- François Coppée -- Edouard
+  Grenier -- Madame Adam -- Madame Alphonse Daudet -- À propos d'un nouveau livre
+  de classe -- Ernest Renan -- Ferdinand Brunetière -- Emile Zola -- Guy de Maupassant
+  -- J.-K. Huysmans -- Georges Ohnet.
+title: "Les contemporains, première série\r\nÉtudes et portraits littéraires"
+url: http://www.gutenberg.org/ebooks/19186
